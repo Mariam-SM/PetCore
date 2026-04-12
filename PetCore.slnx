@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PetCore.API/PetCore.API.csproj" />
+  <Project Path="PetCore.Application/PetCore.Application.csproj" />
+  <Project Path="PetCore.Core/PetCore.Core.csproj" />
+  <Project Path="PetCore.Infrastructure/PetCore.Infrastructure.csproj" />
+</Solution>
