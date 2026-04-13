@@ -2,7 +2,7 @@
 
 > A comprehensive backend ecosystem for pet care management — connecting pet owners, veterinarians, products, and services through a clean, scalable RESTful API.
 
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)
+![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=flat-square&logo=dotnet)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=flat-square&logo=dotnet)
 ![EF Core](https://img.shields.io/badge/EF_Core-ORM-512BD4?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver)
@@ -50,7 +50,7 @@ PetCore/
 
 | Layer | Technology |
 |---|---|
-| Framework | ASP.NET Core 8 |
+| Framework | ASP.NET Core 10 |
 | Language | C# |
 | ORM | Entity Framework Core |
 | Database | SQL Server |
@@ -67,7 +67,7 @@ PetCore/
 
 ### Prerequisites
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download)
+- [.NET 10 SDK](https://dotnet.microsoft.com/download)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server)
 - [Redis](https://redis.io/) *(optional — for caching)*
 
@@ -135,7 +135,7 @@ https://localhost:{port}/swagger
 Backend .NET Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mariam--sayedd-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mariam-sayedd)
-[![GitHub](https://img.shields.io/badge/GitHub-Mariam--SM-181717?style=flat-square&logo=github)](https://github.com/Mariam-SM)
+[![GitHub](https://img.shields.io/badge/GitHub-Mariam--SM-1101717?style=flat-square&logo=github)](https://github.com/Mariam-SM)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mariam--sm.github.io-ff6b6b?style=flat-square)](https://mariam-sm.github.io/portfolio)
 
 ---
